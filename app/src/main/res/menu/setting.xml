@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pdf"
+        android:icon="@mipmap/pdf"
+        android:title="Item"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/save"
+        android:icon="@mipmap/save"
+        android:title="Item"
+        app:showAsAction="always" />
+
+    <item
+        android:icon="@mipmap/clear"
+        android:id="@+id/clear"
+        android:title="Item"
+        app:showAsAction="always" />
+
+    <item
+        android:icon="@mipmap/share"
+        android:id="@+id/share"
+        android:title="Item"
+        app:showAsAction="always" />
+
+    <item
+        android:title="Cut Size"
+        android:id="@+id/cut"/>
+
+    <item
+        android:title="Round Log"
+        android:id="@+id/roundlog"/>
+
+    <item
+        android:title="Flush Door"
+        android:id="@+id/flushdor"/>
+
+    <item
+        android:title="Plywood"
+        android:id="@+id/plywood"/>
+
+</menu>

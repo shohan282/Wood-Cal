@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Calculator For Wood</string>
+
+
+    <string name="uplist">\t Sr.\t\t Width \t\t Thick \t\t Length \t\t Qty \t\t CuFt</string>
+
+    <string name="widethick"> \t Width \t\t\t Thick \t\t Length \t\t\t Quantity </string>
+
+
+    <string name="widethickround"> \t\t Length \t\t\t\t\t Peri \t\t\t\t\t Quantity </string>
+
+    <string name="uplistround"> \t\t Sr.\t\t\t Length \t\t\t Peri \t\t\t  Qty \t\t\t CuFt </string>
+
+
+    <string name="widethickflush"> \t\t Length \t\t\t\t\t Width \t\t\t\t Quantity </string>
+
+    <string name="uplistflush"> \t\t Sr.\t\t\t Length \t\t\t Width \t\t\t  Qty \t\t\t SqFt </string>
+
+</resources>
